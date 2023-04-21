@@ -10,4 +10,15 @@ My name is Wilson! I am a full stack dev who knows
 - I'm working on a website for devs to share assets
 - 📫 How to reach me: chanceboardgames@gmail.com
 - ⚡ Fun fact: I love History!
--->
+
+
+      _______________________________
+    /                                 \
+    |            *.     .*            |
+    |               <>                |
+    |              \___/              |
+    |                                 |
+    \_________________________________/
+                \   ___   /
+                 | /   \ |
+                -----------
