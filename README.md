@@ -11,6 +11,7 @@ My name is Wilson! I am a full stack dev who knows
   - Tailwindcss
 - Databases
   - MongoDB
+  - Supabase
  
 ### About Me
 
