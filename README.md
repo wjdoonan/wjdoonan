@@ -9,6 +9,7 @@ My name is Wilson! I am a full stack dev who knows
   - Next.js
   - React.js
   - Tailwindcss
+  - express.js
 - Databases
   - MongoDB
   - Supabase
